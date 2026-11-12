@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150" role="img" aria-label="DocsOrganizator">
+  <rect width="640" height="150" rx="14" fill="#0F172A"/>
+  <rect x="0.5" y="0.5" width="639" height="149" rx="13.5" fill="none" stroke="#1E293B"/>
+  <rect x="0" y="0" width="5" height="150" rx="2.5" fill="#39457E"/>
+  <text x="28" y="44" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#F8FAFC">DocsOrganizator</text>
+  <text x="28" y="72" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#94A3B8">CLI de clasificación de documentos y deduplicación EXIF</text>
+  <rect x="28" y="92" width="38" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
+  <text x="38" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">Perl</text>
+  <rect x="74" y="92" width="52" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
+  <text x="84" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">Python</text>
+  <rect x="134" y="92" width="65" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
+  <text x="144" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">ExifTool</text>
+  <text x="28" y="126" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#64748B">github.com/ProyectosCzh/DocsOrganizator</text>
+</svg>

@@ -2,20 +2,15 @@
 
   <img src="./assets/banner.svg" alt="ProyectosCzh" width="100%">
 
-  <br><br>
-
-  <img src="https://github.com/ProyectosCzh.png" alt="Logo ProyectosCzh" width="96" height="96">
+  <br>
 
   <h3>Carlos Moisés Zambrana Hurtado</h3>
   <p><strong>Ingeniería de Sistemas · Backend · APIs · Automatización · Cómputo científico</strong></p>
 
   <p>
-    <a href="mailto:carlosmzambranah19@gmail.com"><img src="https://img.shields.io/badge/Email-carlosmzambranah19%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://www.linkedin.com/in/carlos-mzambrana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/ProyectosCzh"><img src="https://img.shields.io/badge/GitHub-ProyectosCzh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://github.com/ProyectosCzh?tab=repositories"><img src="https://img.shields.io/github/repos/ProyectosCzh?style=flat-square&logo=github&logoColor=white&label=Repos" alt="Repositorios"></a>
-    <a href="https://github.com/ProyectosCzh"><img src="https://img.shields.io/github/followers/ProyectosCzh?style=flat-square&logo=github&logoColor=white&label=Followers" alt="Followers"></a>
-    <a href="https://github.com/ProyectosCzh"><img src="https://img.shields.io/github/last-commit/ProyectosCzh?style=flat-square&logo=github&logoColor=white&label=Último%20commit" alt="Último commit"></a>
+    <a href="mailto:carlosmzambranah19@gmail.com"><img src="./assets/badges/email.svg" alt="Email" height="32"></a>
+    <a href="https://www.linkedin.com/in/carlos-mzambrana"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" height="32"></a>
+    <a href="https://github.com/ProyectosCzh"><img src="./assets/badges/github.svg" alt="GitHub" height="32"></a>
   </p>
 
 </div>
@@ -41,14 +36,14 @@ Trabajo el ciclo completo de desarrollo —levantamiento y análisis de requerim
 
 <div align="center">
 
-<a href="https://github.com/ProyectosCzh/web-sistema-laboratorios"><img src="https://opengraph.githubassets.com/1/ProyectosCzh/web-sistema-laboratorios" alt="LABMANAGE Web" width="100%"></a>
-<a href="https://github.com/ProyectosCzh/api-sistema-laboratorios"><img src="https://opengraph.githubassets.com/1/ProyectosCzh/api-sistema-laboratorios" alt="LABMANAGE API" width="100%"></a>
+<a href="https://github.com/ProyectosCzh/web-sistema-laboratorios"><img src="./assets/projects/labmanage-web.svg" alt="LABMANAGE Web" width="100%"></a>
+<a href="https://github.com/ProyectosCzh/api-sistema-laboratorios"><img src="./assets/projects/labmanage-api.svg" alt="LABMANAGE API" width="100%"></a>
 
 </div>
 
 ### `LABMANAGE` · Plataforma de gestión de laboratorios
 
-Suite full-stack para la administración y control operativo de laboratorios: reservas de aulas y turnos, estados por aula, asignación de docentes, mantenimiento y statistics en vivo.
+Suite full-stack para la administración y control operativo de laboratorios: reservas de aulas y turnos, estados por aula, asignación de docentes, mantenimiento y estadísticas en vivo.
 
 | Capa | Repositorio | Stack |
 | :--- | :--- | :--- |
@@ -58,7 +53,7 @@ Suite full-stack para la administración y control operativo de laboratorios: re
 <details>
 <summary><b>Detalles técnicos</b></summary>
 
-- **Frontend:** Astro en modo `server` con islas React `client:only`, estado de sesión en `localStorage`, capa de API con interceptores de autenticación y manejos de error, TanStack Query como única fuente de verdad del estado remoto.
+- **Frontend:** Astro en modo `server` con islas React `client:only`, estado de sesión en `localStorage`, capa de API con interceptores de autenticación y manejo de errores, TanStack Query como única fuente de verdad del estado remoto.
 - **API:** Express 5 + TypeScript estricto, ORM Prisma sobre PostgreSQL (Neon), caché en memoria con invalidación *write-through* y deduplicación *single-flight*.
 - **Seguridad:** doble token (access JWT 15 min + refresh JWT 7 días) con sesiones persistidas, `bcryptjs`, Helmet, CORS con credenciales, *rate limiting* por endpoint y validación Zod en el límite.
 - **Documentación:** referencia interactiva con Scalar y especificación OpenAPI 3.x.
@@ -69,8 +64,8 @@ Suite full-stack para la administración y control operativo de laboratorios: re
 
 <div align="center">
 
-<a href="https://github.com/ProyectosCzh/riskv2cla"><img src="https://opengraph.githubassets.com/1/ProyectosCzh/riskv2cla" alt="SmartRisk" width="100%"></a>
-<a href="https://opengraph.githubassets.com/1/ProyectosCzh/backendcanchago" alt="CanchaGo" width="100%"></a>
+<a href="https://github.com/ProyectosCzh/riskv2cla"><img src="./assets/projects/smartrisk.svg" alt="SmartRisk" width="100%"></a>
+<a href="https://github.com/ProyectosCzh/backendcanchago"><img src="./assets/projects/canchago.svg" alt="CanchaGo" width="100%"></a>
 
 </div>
 
@@ -98,8 +93,8 @@ Servicio backend con la lógica de negocio y la gestión de reservas de canchas:
 
 <div align="center">
 
-<a href="https://github.com/ProyectosCzh/DocsOrganizator"><img src="https://opengraph.githubassets.com/1/ProyectosCzh/DocsOrganizator" alt="DocsOrganizator" width="100%"></a>
-<a href="https://opengraph.githubassets.com/1/ProyectosCzh/Comparativo-Euler-Runge-Kutta" alt="Euler vs Runge-Kutta" width="100%"></a>
+<a href="https://github.com/ProyectosCzh/DocsOrganizator"><img src="./assets/projects/docsorganizator.svg" alt="DocsOrganizator" width="100%"></a>
+<a href="https://github.com/ProyectosCzh/Comparativo-Euler-Runge-Kutta"><img src="./assets/projects/euler-rk.svg" alt="Euler vs Runge-Kutta" width="100%"></a>
 
 </div>
 
@@ -128,6 +123,13 @@ Implementación y análisis comparativo entre los métodos de Euler y Runge-Kutt
 
 ---
 
+<div align="center">
+
+<a href="https://github.com/ProyectosCzh/ProyectoFinalEstructuraAvanzada-Diccionario"><img src="./assets/projects/hablacamba.svg" alt="Hablacamba" width="100%"></a>
+<a href="https://github.com/ProyectosCzh/ProyectoFinalEstructuraAvanzada-Pirata"><img src="./assets/projects/tesoro-pirata.svg" alt="El Tesoro del Pirata" width="100%"></a>
+
+</div>
+
 ### Proyectos de estructuras de datos
 
 | Repositorio | Descripción | Stack |
@@ -143,14 +145,14 @@ Implementación y análisis comparativo entre los métodos de Euler y Runge-Kutt
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cpp.svg" width="34" alt="C++" title="C++"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" width="34" alt="Python" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="34" alt="C#" title="C#"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="34" alt="JavaScript" title="JavaScript"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="34" alt="TypeScript" title="TypeScript"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dart.svg" width="34" alt="Dart" title="Dart"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/perl.svg" width="34" alt="Perl" title="Perl"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" title="SQL"> |
-| **Frontend** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="34" alt="HTML5" title="HTML5"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="34" alt="CSS3" title="CSS3"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="34" alt="React" title="React"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/astro.svg" width="34" alt="Astro" title="Astro"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" width="34" alt="Tailwind CSS" title="Tailwind CSS"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bootstrap.svg" width="34" alt="Bootstrap" title="Bootstrap"> |
-| **Backend & APIs** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nodedotjs.svg" width="34" alt="Node.js" title="Node.js"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" width="34" alt="Express" title="Express"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/fastapi.svg" width="34" alt="FastAPI" title="FastAPI"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/django.svg" width="34" alt="Django" title="Django"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dotnet.svg" width="34" alt="ASP.NET Core" title="ASP.NET Core"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/swagger.svg" width="34" alt="Swagger" title="Swagger"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/prisma.svg" width="34" alt="Prisma" title="Prisma"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zod.svg" width="34" alt="Zod" title="Zod"> |
-| **Bases de datos** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" width="34" alt="PostgreSQL" title="PostgreSQL"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="34" alt="SQL Server" title="SQL Server"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sqlite.svg" width="34" alt="SQLite" title="SQLite"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" width="34" alt="MySQL" title="MySQL"> |
-| **Datos & Cómputo** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pandas.svg" width="34" alt="Pandas" title="Pandas"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/numpy.svg" width="34" alt="NumPy" title="NumPy"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scipy.svg" width="34" alt="SciPy" title="SciPy"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sympy.svg" width="34" alt="SymPy" title="SymPy"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/streamlit.svg" width="34" alt="Streamlit" title="Streamlit"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/plotly.svg" width="34" alt="Plotly" title="Plotly"> |
-| **Móvil & Escritorio** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/flutter.svg" width="34" alt="Flutter" title="Flutter"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" width="34" alt="C++" title="C++"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/raylib.svg" width="34" alt="Raylib" title="Raylib"> |
-| **QA & Herramientas** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pytest.svg" width="34" alt="pytest" title="pytest"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postman.svg" width="34" alt="Postman" title="Postman"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" width="34" alt="Git" title="Git"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="34" alt="GitHub" title="GitHub"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vite.svg" width="34" alt="Vite" title="Vite"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" width="34" alt="VS Code" title="VS Code"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rider.svg" width="34" alt="Rider" title="Rider"> |
-| **Cloud & Despliegue** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vercel.svg" width="34" alt="Vercel" title="Vercel"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/netlify.svg" width="34" alt="Netlify" title="Netlify"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/render.svg" width="34" alt="Render" title="Render"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" width="34" alt="Docker" title="Docker"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linux.svg" width="34" alt="Linux" title="Linux"> |
+| **Lenguajes** | <img src="./assets/icons/cplusplus.svg" width="40" height="40" alt="C++" title="C++"> <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" title="Python"> <img src="./assets/icons/csharp.svg" width="40" height="40" alt="C#" title="C#"> <img src="./assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"> <img src="./assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript"> <img src="./assets/icons/dart.svg" width="40" height="40" alt="Dart" title="Dart"> <img src="./assets/icons/perl.svg" width="40" height="40" alt="Perl" title="Perl"> <img src="./assets/icons/mysql.svg" width="40" height="40" alt="SQL" title="SQL"> |
+| **Frontend** | <img src="./assets/icons/html5.svg" width="40" height="40" alt="HTML5" title="HTML5"> <img src="./assets/icons/css3.svg" width="40" height="40" alt="CSS3" title="CSS3"> <img src="./assets/icons/react.svg" width="40" height="40" alt="React" title="React"> <img src="./assets/icons/astro.svg" width="40" height="40" alt="Astro" title="Astro"> <img src="./assets/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"> <img src="./assets/icons/bootstrap.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"> |
+| **Backend & APIs** | <img src="./assets/icons/nodedotjs.svg" width="40" height="40" alt="Node.js" title="Node.js"> <img src="./assets/icons/express.svg" width="40" height="40" alt="Express" title="Express"> <img src="./assets/icons/fastapi.svg" width="40" height="40" alt="FastAPI" title="FastAPI"> <img src="./assets/icons/django.svg" width="40" height="40" alt="Django" title="Django"> <img src="./assets/icons/dotnet.svg" width="40" height="40" alt="ASP.NET Core" title="ASP.NET Core"> <img src="./assets/icons/swagger.svg" width="40" height="40" alt="Swagger" title="Swagger"> <img src="./assets/icons/prisma.svg" width="40" height="40" alt="Prisma" title="Prisma"> <img src="./assets/icons/zod.svg" width="40" height="40" alt="Zod" title="Zod"> |
+| **Bases de datos** | <img src="./assets/icons/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"> <img src="./assets/icons/microsoftsqlserver.svg" width="40" height="40" alt="SQL Server" title="SQL Server"> <img src="./assets/icons/sqlite.svg" width="40" height="40" alt="SQLite" title="SQLite"> <img src="./assets/icons/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL"> |
+| **Datos & Cómputo** | <img src="./assets/icons/pandas.svg" width="40" height="40" alt="Pandas" title="Pandas"> <img src="./assets/icons/numpy.svg" width="40" height="40" alt="NumPy" title="NumPy"> <img src="./assets/icons/scipy.svg" width="40" height="40" alt="SciPy" title="SciPy"> <img src="./assets/icons/sympy.svg" width="40" height="40" alt="SymPy" title="SymPy"> <img src="./assets/icons/streamlit.svg" width="40" height="40" alt="Streamlit" title="Streamlit"> <img src="./assets/icons/plotly.svg" width="40" height="40" alt="Plotly" title="Plotly"> |
+| **Móvil & Escritorio** | <img src="./assets/icons/flutter.svg" width="40" height="40" alt="Flutter" title="Flutter"> <img src="./assets/icons/cplusplus.svg" width="40" height="40" alt="C++" title="C++"> <img src="./assets/icons/raylib.svg" width="40" height="40" alt="Raylib" title="Raylib"> |
+| **QA & Herramientas** | <img src="./assets/icons/pytest.svg" width="40" height="40" alt="pytest" title="pytest"> <img src="./assets/icons/postman.svg" width="40" height="40" alt="Postman" title="Postman"> <img src="./assets/icons/git.svg" width="40" height="40" alt="Git" title="Git"> <img src="./assets/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub"> <img src="./assets/icons/vite.svg" width="40" height="40" alt="Vite" title="Vite"> <img src="./assets/icons/visualstudiocode.svg" width="40" height="40" alt="VS Code" title="VS Code"> <img src="./assets/icons/rider.svg" width="40" height="40" alt="JetBrains Rider" title="JetBrains Rider"> |
+| **Cloud & Despliegue** | <img src="./assets/icons/vercel.svg" width="40" height="40" alt="Vercel" title="Vercel"> <img src="./assets/icons/netlify.svg" width="40" height="40" alt="Netlify" title="Netlify"> <img src="./assets/icons/render.svg" width="40" height="40" alt="Render" title="Render"> <img src="./assets/icons/docker.svg" width="40" height="40" alt="Docker" title="Docker"> <img src="./assets/icons/linux.svg" width="40" height="40" alt="Linux" title="Linux"> |
 
 </div>
 
@@ -162,7 +164,7 @@ Implementación y análisis comparativo entre los métodos de Euler y Runge-Kutt
 | :--- | :--- |
 | **Flujo de ingeniería** | Levantamiento de requerimientos, historias de usuario, desarrollo iterativo de MVPs, pruebas de APIs y documentación técnica. |
 | **Calidad** | Código limpio, tipado estricto, validación en el límite de la API y pruebas automatizadas. |
-| **Documentación** | README técnico por proyecto con arquitectura, modelo de datos, flujo de uso y scripts reproducible. |
+| **Documentación** | README técnico por proyecto con arquitectura, modelo de datos, flujo de uso y scripts reproducibles. |
 | **Desarrollo freelance** | `2025 — Presente` · Aplicaciones a medida, integración de APIs y herramientas de análisis de datos en coordinación directa con clientes. |
 
 ---
@@ -175,14 +177,14 @@ Escríbeme por correo o LinkedIn — respondo siempre.
 
 <br>
 
-<a href="mailto:carlosmzambranah19@gmail.com"><img src="https://img.shields.io/badge/Email-carlosmzambranah19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:carlosmzambranah19@gmail.com"><img src="./assets/badges/email.svg" alt="Email" height="32"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/carlos-mzambrana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/carlos-mzambrana"><img src="./assets/badges/linkedin.svg" alt="LinkedIn" height="32"></a>
 &nbsp;
-<a href="https://github.com/ProyectosCzh"><img src="https://img.shields.io/badge/GitHub-ProyectosCzh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/ProyectosCzh"><img src="./assets/badges/github.svg" alt="GitHub" height="32"></a>
 
 <br><br>
 
-<sub>Hecho con <a href="https://github.com/ProyectosCzh">ProyectosCzh</a></sub>
+<sub>Hecho por <a href="https://github.com/ProyectosCzh">ProyectosCzh</a></sub>
 
 </div>
