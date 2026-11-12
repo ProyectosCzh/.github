@@ -1,16 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150" role="img" aria-label="LABMANAGE · API">
-  <rect width="640" height="150" rx="14" fill="#0F172A"/>
-  <rect x="0.5" y="0.5" width="639" height="149" rx="13.5" fill="none" stroke="#1E293B"/>
-  <rect x="0" y="0" width="5" height="150" rx="2.5" fill="#3178C6"/>
-  <text x="28" y="44" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#F8FAFC">LABMANAGE · API</text>
-  <text x="28" y="72" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#94A3B8">REST API de reservas, turnos y control de laboratorios</text>
-  <rect x="28" y="92" width="71" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
-  <text x="38" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">Express 5</text>
-  <rect x="107" y="92" width="78" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
-  <text x="117" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">TypeScript</text>
-  <rect x="193" y="92" width="52" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
-  <text x="203" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">Prisma</text>
-  <rect x="253" y="92" width="78" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
-  <text x="263" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">PostgreSQL</text>
-  <text x="28" y="126" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#64748B">github.com/ProyectosCzh/api-sistema-laboratorios</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150" role="img" aria-label="LABMANAGE ? API">
+  <rect width="640" height="150" rx="14" fill="#F5F1E8"/>
+  <rect x="0.5" y="0.5" width="639" height="149" rx="13.5" fill="none" stroke="#DED7C9"/>
+  <rect width="5" height="150" rx="2.5" fill="#B86645"/>
+  <text x="28" y="43" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#292923">LABMANAGE ? API</text>
+  <text x="28" y="69" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#6D6A60">API REST para reservas, turnos y control de laboratorios</text>
+  <rect x="28" y="91" width="80" height="23" rx="7" fill="#EEE9DF" stroke="#DED7C9"/><text x="39" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#514D43">Express 5</text><rect x="116" y="91" width="87" height="23" rx="7" fill="#EEE9DF" stroke="#DED7C9"/><text x="127" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#514D43">TypeScript</text><rect x="211" y="91" width="61" height="23" rx="7" fill="#EEE9DF" stroke="#DED7C9"/><text x="222" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#514D43">Prisma</text><rect x="280" y="91" width="87" height="23" rx="7" fill="#EEE9DF" stroke="#DED7C9"/><text x="291" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#514D43">PostgreSQL</text>
+  <text x="28" y="133" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#8C8578">github.com/ProyectosCzh/api-sistema-laboratorios</text>
+  <path d="M602 31h12M608 25v12" stroke="#B86645" stroke-width="2" stroke-linecap="round" opacity=".7"/>
 </svg>

@@ -1,16 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150" role="img" aria-label="SmartRisk">
-  <rect width="640" height="150" rx="14" fill="#0F172A"/>
-  <rect x="0.5" y="0.5" width="639" height="149" rx="13.5" fill="none" stroke="#1E293B"/>
-  <rect x="0" y="0" width="5" height="150" rx="2.5" fill="#FF4B4B"/>
-  <text x="28" y="44" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#F8FAFC">SmartRisk</text>
-  <text x="28" y="72" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#94A3B8">Robo-asesor: Markowitz, frontera eficiente y Monte Carlo</text>
-  <rect x="28" y="92" width="52" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
-  <text x="38" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">Python</text>
-  <rect x="88" y="92" width="71" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
-  <text x="98" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">Streamlit</text>
-  <rect x="167" y="92" width="45" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
-  <text x="177" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">NumPy</text>
-  <rect x="220" y="92" width="45" height="22" rx="6" fill="#1E293B" stroke="#334155"/>
-  <text x="230" y="107" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#CBD5E1">SciPy</text>
-  <text x="28" y="126" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#64748B">github.com/ProyectosCzh/riskv2cla</text>
+  <rect width="640" height="150" rx="14" fill="#F5F1E8"/>
+  <rect x="0.5" y="0.5" width="639" height="149" rx="13.5" fill="none" stroke="#DED7C9"/>
+  <rect width="5" height="150" rx="2.5" fill="#78805C"/>
+  <text x="28" y="43" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#292923">SmartRisk</text>
+  <text x="28" y="69" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#6D6A60">Simulaci?n financiera, frontera eficiente y an?lisis de portafolios</text>
+  <rect x="28" y="91" width="61" height="23" rx="7" fill="#EEE9DF" stroke="#DED7C9"/><text x="39" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#514D43">Python</text><rect x="97" y="91" width="80" height="23" rx="7" fill="#EEE9DF" stroke="#DED7C9"/><text x="108" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#514D43">Streamlit</text><rect x="185" y="91" width="54" height="23" rx="7" fill="#EEE9DF" stroke="#DED7C9"/><text x="196" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#514D43">NumPy</text><rect x="247" y="91" width="54" height="23" rx="7" fill="#EEE9DF" stroke="#DED7C9"/><text x="258" y="106" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" fill="#514D43">SciPy</text>
+  <text x="28" y="133" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#8C8578">github.com/ProyectosCzh/riskv2cla</text>
+  <path d="M602 31h12M608 25v12" stroke="#78805C" stroke-width="2" stroke-linecap="round" opacity=".7"/>
 </svg>
