@@ -125,7 +125,6 @@ Implementación y análisis comparativo entre los métodos de Euler y Runge-Kutt
 
 <div align="center">
 
-<a href="https://github.com/ProyectosCzh/ProyectoFinalEstructuraAvanzada-Diccionario"><img src="./assets/projects/hablacamba.svg" alt="Hablacamba" width="100%"></a>
 <a href="https://github.com/ProyectosCzh/ProyectoFinalEstructuraAvanzada-Pirata"><img src="./assets/projects/tesoro-pirata.svg" alt="El Tesoro del Pirata" width="100%"></a>
 
 </div>
@@ -134,7 +133,6 @@ Implementación y análisis comparativo entre los métodos de Euler y Runge-Kutt
 
 | Repositorio | Descripción | Stack |
 | :--- | :--- | :--- |
-| **[Hablacamba · Diccionario del Habla Popular Camba](https://github.com/ProyectosCzh/ProyectoFinalEstructuraAvanzada-Diccionario)** | Tabla hash con manejo de colisiones comparando **listas enlazadas** frente a **árboles AVL**, con búsqueda por *substring* y persistencia en archivo. | `C++` `Python` |
 | **[El Tesoro del Pirata](https://github.com/ProyectosCzh/ProyectoFinalEstructuraAvanzada-Pirata)** | Juego de búsqueda de caminos con **BFS** sobre un **grafo ponderado**, mapa interactivo con *pan* y *zoom* sincronizado, y **árbol de pistas n-ario**. | `C++` `Raylib` |
 
 ---
