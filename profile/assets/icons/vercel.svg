@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Vercel">
-  <rect width="48" height="48" rx="10" fill="#514D43"/>
-  <rect x="0.5" y="0.5" width="47" height="47" rx="9.5" fill="none" stroke="#514D43" stroke-opacity="0.18"/>
-  <g transform="translate(12 12)" fill="#514D43"><path d="m12 1.608 12 20.784H0Z"/></g>
+  <rect width="48" height="48" rx="10" fill="#000000"/>
+  <rect x="0.5" y="0.5" width="47" height="47" rx="9.5" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  <g transform="translate(12 12)" fill="#FFFFFF"><path d="m12 1.608 12 20.784H0Z"/></g>
 </svg>
